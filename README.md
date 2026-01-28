@@ -2,16 +2,18 @@
 This application was designed and developed by Nishanthi as a technical demonstration for the Bosch Junior Software Developer interview process. It is intended to showcase proficiency in Python 3.11, LangChain AI Agents, and Cloud-ready application architecture.
 
 
-# Bosch AI Technical Assistant
-An AI-powered RAG (Retrieval-Augmented Generation) system built for the Bosch Digital Office.
+# 🔴 Bosch AI Technical Assistant
+**Automated Documentation Analysis for Bosch Power Tools**
 
-## Features
-- **PDF Analysis**: Upload technical manuals and extract instant insights.
-- **AI Agent**: Uses LangChain and OpenAI to answer complex engineering questions.
-- **Modern UI**: Built with Streamlit for a seamless user experience.
+This project is a technical demonstration of a **RAG (Retrieval-Augmented Generation)** pipeline. It allows users to upload Bosch technical manuals (like the GSB 500 RE) and ask complex questions using AI.
 
-## Tech Stack
-- Python 3.11
-- LangChain (Classic & Community)
-- OpenAI API
-- FAISS (Vector Database)
+## 🚀 Key Features
+- **Smart Retrieval:** Uses FAISS vector storage to find exact technical specs from PDFs.
+- **Enterprise UI:** Designed with Bosch branding using Streamlit.
+- **Demo Mode:** Built-in contingency mode for presentations without API access.
+
+## 🛠️ Tech Stack
+- **Language:** Python 3.11
+- **AI Framework:** LangChain & OpenAI GPT-3.5
+- **Vector Database:** FAISS
+- **Frontend:** Streamlit
