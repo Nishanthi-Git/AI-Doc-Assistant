@@ -8,9 +8,9 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_classic.chains import RetrievalQA
 
 # ---------------- UI Setup ----------------
-st.set_page_config(page_title="Bosch AI Assistant", layout="centered")
-st.title("📄 Bosch Digital Office – AI Doc Assistant ")
-st.markdown("Junior Developer Technical Demo (Analyze technical manuals with automated AI workflows).")
+st.set_page_config(page_title="AI Assistant", layout="centered")
+st.title("📄 Junior Developer Technical Demo")
+st.markdown("AI Doc Assistant - Analyze technical manuals with automated AI workflows.")
 
 # ---------------- API Key Sidebar ----------------
 api_key = st.sidebar.text_input("Enter OpenAI API Key", type="password")
