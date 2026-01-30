@@ -1,5 +1,5 @@
 
-This application was designed and developed by Nishanthi as a technical demonstration for the Bosch Junior Software Developer interview process. It is intended to showcase proficiency in Python 3.11, LangChain AI Agents, and Cloud-ready application architecture.
+This application was designed and developed by Nishanthi as a technical demonstration for the Junior Software Developer interview process. It is intended to showcase proficiency in Python 3.11, LangChain AI Agents, and Cloud-ready application architecture.
 
 
 # 🔴 AI Technical Assistant
