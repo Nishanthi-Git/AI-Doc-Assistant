@@ -2,8 +2,8 @@
 This application was designed and developed by Nishanthi as a technical demonstration for the Bosch Junior Software Developer interview process. It is intended to showcase proficiency in Python 3.11, LangChain AI Agents, and Cloud-ready application architecture.
 
 
-# 🔴 Bosch AI Technical Assistant
-**Automated Documentation Analysis for Bosch Power Tools**
+# 🔴 AI Technical Assistant
+**Automated Documentation Analysis**
 
 This project is a technical demonstration of a **RAG (Retrieval-Augmented Generation)** pipeline. It allows users to upload Bosch technical manuals (like the GSB 500 RE) and ask complex questions using AI.
 
